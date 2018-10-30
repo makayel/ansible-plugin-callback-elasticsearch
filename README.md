@@ -1,0 +1,1 @@
+# ansible-plugin-callback-elasticsearch
